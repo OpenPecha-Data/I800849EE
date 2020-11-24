@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25153
   title: ལས་འབྲས་ཀྱི་རྣམ་གཞག་བཤད་པའི་ལས་འབྲས་གསལ་བའི་མེ་ལོང་སོགས།
-  volume: ''
+  volume:
+    299752cef2d345f0b4d1e73e6d24733a:
+      image_group_id: I1KG25155
+      title: Volume 1 of las 'bras kyi rnam gzhag bshad pa'i las 'bras gsal ba'i me
+        long sogs/
+      volume_number: 1
+      total_pages: 586
   author: ''
+ebook_metadata:
+  title: ལས་འབྲས་ཀྱི་རྣམ་གཞག་བཤད་པའི་ལས་འབྲས་གསལ་བའི་མེ་ལོང་སོགས།
+  author: ''
+  sku: P008157
+  cover: cover.jpg
+  layers:
+  - pagination
