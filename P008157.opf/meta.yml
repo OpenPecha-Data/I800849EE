@@ -5,11 +5,13 @@ source_metadata:
   title: ལས་འབྲས་ཀྱི་རྣམ་གཞག་བཤད་པའི་ལས་འབྲས་གསལ་བའི་མེ་ལོང་སོགས།
   author: ''
   volumes:
-    0c8c4ab8c7cd4b94a01bc56367dd1609:
+    299752cef2d345f0b4d1e73e6d24733a:
       image_group_id: I1KG25155
-      title: ''
+      title: Volume 1 of las 'bras kyi rnam gzhag bshad pa'i las 'bras gsal ba'i me
+        long sogs/
       volume_number: 1
       total_pages: 586
+      base_file: v001.txt
 ebook_metadata:
   title: ལས་འབྲས་ཀྱི་རྣམ་གཞག་བཤད་པའི་ལས་འབྲས་གསལ་བའི་མེ་ལོང་སོགས།
   author: ''
